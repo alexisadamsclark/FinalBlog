@@ -1,0 +1,14 @@
+---
+title: "My Second Post"
+description: |
+  A short description of the post.
+author:
+  - name: Nora Jones
+    url: https://example.com/norajones
+date: 03-06-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Hello! 
